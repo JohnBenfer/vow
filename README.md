@@ -5,7 +5,7 @@ Vow is an Android and iOS app for friendly bets, wagers, trivia, etc. using open
 
 The tech stack for Vow is a React Native frontend with Expo and a Firebase Realtime Database. 
 
-*The components code is not the most clean or meant for production
+*Currently the components code is not the most clean or meant for production
 
 ## Primary Features:
   - Sign up with username
