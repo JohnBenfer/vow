@@ -1,4 +1,5 @@
 # Vow
+### Developed by John Benfer and Derek Jergensen
 
 Vow is an Android and iOS app for friendly bets, wagers, trivia, etc. using open-ended "Vows". Users can create or join a lobby where they can create and participate in Vows. 
 
