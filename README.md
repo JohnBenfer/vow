@@ -2,7 +2,11 @@
 
 Vow is an Android and iOS app for friendly bets, wagers, trivia, etc. using open-ended "Vows". Users can create or join a lobby where they can create and participate in Vows. 
 
-Primary Features:
+The tech stack for Vow is a React Native frontend with Expo and a Firebase Realtime Database. 
+
+*The components code is not the most clean or meant for production
+
+## Primary Features:
   - Sign up with username
   - Create lobby
   - Join existing lobby with code
